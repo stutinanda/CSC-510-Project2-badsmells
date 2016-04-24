@@ -5,7 +5,7 @@ import dateutil.parser
 
 repo_count = 1
 
-def find_issues_exceeding_milestone_due_date(repo):
+def find_issues_uneven_weekly_commits(repo):
 
 	weekly_commit_count = {}
 
@@ -64,7 +64,7 @@ def read_anonymized_repos():
 repo_details = read_anonymized_repos()
 
 for repo in repo_details:
-	find_issues_exceeding_milestone_due_date(repo)
+	find_issues_uneven_weekly_commits(repo)
 	repo_count += 1
 
 print 'Feature csv files saved in features directory!'

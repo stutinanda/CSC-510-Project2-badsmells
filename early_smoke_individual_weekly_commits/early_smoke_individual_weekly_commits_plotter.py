@@ -19,12 +19,6 @@ def generate_feature_graph_for_repo(repo_count):
 	plt.title('Early Commit Smoke Per Person for Repo ' + str(repo_count))
 	plt.legend(bbox_to_anchor=(0., 1.02, 1., .102), loc=1, ncol=4, mode="expand", borderaxespad=0.)
 
-	#line1, = plt.plot([1,2,3], label="Person 1", linestyle='--', color='r')
-	#line2, = plt.plot([3,2,1], label="Person 2", linestyle='--', color='g')
-	#line3, = plt.plot([1,2,3], label="Person 3", linestyle='--', color='b')
-	#line4, = plt.plot([3,2,1], label="Person 4", linestyle='--', color='k')
-	
-
 	plt.savefig('./results/repo_'+str(repo_count)+'_early_commit_smoke.png')
 	plt.close()
 

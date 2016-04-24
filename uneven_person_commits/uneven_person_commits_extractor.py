@@ -2,18 +2,15 @@ import github3
 import csv
 import sys
 import dateutil.parser
-import os
 
 repo_count = 1
-
-g = github3.login(os.environ['git_username'], os.environ['git_password'])
 
 def find_issues_uneven_person_commit(repo):
 
 	committer_map = {}
 	person_map = anonymize_persons()
 
-	repo = g.repository(repo[0], repo[1])
+	repo = github3.repository(repo[0], repo[1])
 	all_commits = repo.commits()
 
 	for commit in all_commits:

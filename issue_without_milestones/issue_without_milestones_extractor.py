@@ -1,23 +1,20 @@
 import github3
 import csv
 import sys
-import os
 
 repo_count = 1
 per_repo_unassigned_issues = {}
-
-g = github3.login(os.environ['git_username'], os.environ['git_password'])
 
 for i in xrange(1,4):
 	per_repo_unassigned_issues.setdefault(i,0)
 
 def find_issue_without_milestones(repo):
 
-	issues = g.issues_on(repo[0], repo[1], state='all')
+	issues = github3.issues_on(repo[0], repo[1], state='all')
 	
 	## Since pull requests are also captured as issues creating 
 	## the list the list pull requests for comparison with issues
-	repo = g.repository(repo[0], repo[1])
+	repo = github3.repository(repo[0], repo[1])
 	pull_requests = repo.pull_requests(state='all')
 
 	pull_request_map = {}

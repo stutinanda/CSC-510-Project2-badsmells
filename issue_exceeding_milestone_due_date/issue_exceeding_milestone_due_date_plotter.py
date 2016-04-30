@@ -12,7 +12,7 @@ def generate_feature_graph_for_repo(repo_count):
 	plt.xticks(data['Milestone_No'])
 	plt.ylabel('Frequency')
 	plt.xlabel('Milestone')
-	plt.title('Unassigned Issues Per Milestone for Repo ' + str(repo_count))
+	plt.title('Issues exceeding Milestone due date for Repo ' + str(repo_count))
 
 	plt.savefig('./results/repo_'+str(repo_count)+'_issues_exceeding_milestone_due_date_graph.png')
 	plt.close()

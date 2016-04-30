@@ -1,0 +1,162 @@
+,action,closed_at,created_at,group_id,issue_id,label_name,milestone_closed_at,milestone_closed_issues,milestone_created_at,milestone_creator,milestone_due_on,milestone_id,milestone_open_issues,milestone_state,milestone_title,state,title,user
+0,labeled,-1.0,1460697369.0,Repo 1,35,data-collection,-1,0,-1,Person 1,1460952000.0,10,3,open,Project 2 - Data Collection,open,which groups to focus on?,Person 1
+1,labeled,-1.0,1460697286.0,Repo 1,34,data-collection,-1,0,-1,Person 1,1460952000.0,10,3,open,Project 2 - Data Collection,open,what all data do we need?,Person 1
+2,labeled,-1.0,1460697217.0,Repo 1,33,data-collection,-1,0,-1,Person 1,1460952000.0,10,3,open,Project 2 - Data Collection,open,Deciding features!,Person 1
+3,labeled,1457066475.0,1457040340.0,Repo 1,32,Text mining,1460088127.0,3,1456708079.0,Person 1,1456808400.0,8,0,closed,Solution #2,closed,Solution 2 merge,Person 1
+4,labeled,1456880238.0,1456868055.0,Repo 1,31,front-end,1460088127.0,3,1456708079.0,Person 1,1456808400.0,8,0,closed,Solution #2,closed,Need to add answers to front end,Person 3
+5,labeled,1456867983.0,1456855932.0,Repo 1,30,front-end,1460088125.0,4,1456707991.0,Person 1,1456808400.0,7,0,closed,Solution #1,closed,Front End,Person 1
+6,labeled,1456855894.0,1456855631.0,Repo 1,29,help wanted,1460088125.0,4,1456707991.0,Person 1,1456808400.0,7,0,closed,Solution #1,closed,Questions - Collection Structure,Person 1
+7,labeled,1459406788.0,1456761676.0,Repo 1,28,help wanted,1460088127.0,3,1456708079.0,Person 1,1456808400.0,8,0,closed,Solution #2,closed,Data Clustering,Person 2
+8,labeled,1456855710.0,1456761377.0,Repo 1,27,Text mining,1460088125.0,4,1456707991.0,Person 1,1456808400.0,7,0,closed,Solution #1,closed,DB data processsing is slow . Need to be optimized,Person 4
+9,labeled,1456855704.0,1456761280.0,Repo 1,26,Text mining,1460088125.0,4,1456707991.0,Person 1,1456808400.0,7,0,closed,Solution #1,closed,Need to improve stop words for better results,Person 4
+10,labeled,1456855681.0,1456719089.0,Repo 1,25,front-end,None,None,None,None,None,None,None,None,None,closed,Front End,Person 3
+11,labeled,1456471416.0,1456464223.0,Repo 1,21,front-end,1456708050.0,1,1456464113.0,Person 1,-1,6,0,closed,Front End,closed,Front End,Person 1
+12,labeled,1456193166.0,1456192572.0,Repo 1,17,plugin-development,1456708062.0,3,1454893762.0,Person 1,1456722000.0,4,0,closed,Creating the Plugin that uses the Recommendation System,closed,sample plugin,Person 2
+13,labeled,1456464081.0,1456192489.0,Repo 1,16,plugin-development,1456708062.0,3,1454893762.0,Person 1,1456722000.0,4,0,closed,Creating the Plugin that uses the Recommendation System,closed,data storage in plugin,Person 2
+14,labeled,1456193330.0,1456088645.0,Repo 1,15,data-collection,1456708047.0,8,1454893181.0,Person 1,-1,2,0,closed,Data Collection,closed,Db Structure,Person 1
+15,labeled,1456193343.0,1456086281.0,Repo 1,14,data-collection,1456708047.0,8,1454893181.0,Person 1,-1,2,0,closed,Data Collection,closed,Sample DB,Person 1
+16,labeled,1456464028.0,1456086179.0,Repo 1,13,data-collection,1456708047.0,8,1454893181.0,Person 1,-1,2,0,closed,Data Collection,closed,DB Ready!,Person 1
+17,labeled,1456707957.0,1455991125.0,Repo 1,12,Text mining,None,None,None,None,None,None,None,None,None,closed,Multiprocessing,Person 1
+18,labeled,1456191543.0,1455951751.0,Repo 1,11,data-collection,1456708047.0,8,1454893181.0,Person 1,-1,2,0,closed,Data Collection,closed,Db Tag Selection,Person 1
+19,labeled,1456191528.0,1455948467.0,Repo 1,10,data-collection,1456708047.0,8,1454893181.0,Person 1,-1,2,0,closed,Data Collection,closed,Data Too Large,Person 1
+20,labeled,1456191522.0,1455653305.0,Repo 1,8,data-collection,1456708047.0,8,1454893181.0,Person 1,-1,2,0,closed,Data Collection,closed,Converting XML Data into an SQL DB,Person 1
+21,labeled,1455653919.0,1454895359.0,Repo 1,7,enhancement,None,None,None,None,None,None,None,None,None,closed,Write README,Person 2
+22,labeled,1456191499.0,1454894143.0,Repo 1,6,plugin-development,1456708062.0,3,1454893762.0,Person 1,1456722000.0,4,0,closed,Creating the Plugin that uses the Recommendation System,closed,Plugin Development,Person 1
+23,labeled,1456707967.0,1454894009.0,Repo 1,5,Text mining,1456708061.0,3,1454893683.0,Person 1,1456635600.0,3,0,closed,Text Mining using NLTK,closed,NLTK algorithm ,Person 4
+24,labeled,1456693674.0,1454893828.0,Repo 1,4,Text mining,1456708061.0,3,1454893683.0,Person 1,1456635600.0,3,0,closed,Text Mining using NLTK,closed,Text Mining Using NLTK,Person 2
+25,labeled,1455667659.0,1454893449.0,Repo 1,3,data-collection,1456708047.0,8,1454893181.0,Person 1,-1,2,0,closed,Data Collection,closed,DB configuration,Person 3
+26,labeled,1455653192.0,1454893122.0,Repo 1,2,data-collection,1456708047.0,8,1454893181.0,Person 1,-1,2,0,closed,Data Collection,closed,Server For Pulling Data off StackOverflow,Person 1
+27,labeled,1455666773.0,1454342666.0,Repo 1,1,proj1 feedback,None,None,None,None,None,None,None,None,None,closed,comments- no grade yet,Person 0
+28,labeled,-1.0,1459981778.0,Repo 2,98,group work,-1,1,-1,Person 2,1459396800.0,19,3,open,Reaching a conclusion,open,April deliverable: Report,Person 4
+29,labeled,-1.0,1456883044.0,Repo 2,95,Evaluation Plan,-1,1,-1,Person 2,1459396800.0,19,3,open,Reaching a conclusion,open,Analyzing survey outcomes,Person 2
+30,labeled,1459984648.0,1456883037.0,Repo 2,96,Evaluation Plan,-1,1,-1,Person 2,1459396800.0,19,3,open,Reaching a conclusion,closed,Analyzing logs,Person 2
+31,labeled,-1.0,1456883029.0,Repo 2,97,Evaluation Plan,-1,1,-1,Person 2,1459396800.0,19,3,open,Reaching a conclusion,open,Concluding,Person 2
+32,labeled,-1.0,1456883015.0,Repo 2,92,Evaluation Plan,-1,2,-1,Person 2,1459396800.0,18,1,open,conducting surveys,open,conducting surveys for Solution1,Person 2
+33,labeled,1459961189.0,1456883001.0,Repo 2,93,Evaluation Plan,-1,2,-1,Person 2,1459396800.0,18,1,open,conducting surveys,closed,conducting surveys for Solution2,Person 2
+34,labeled,1459983073.0,1456882988.0,Repo 2,94,Evaluation Plan,-1,2,-1,Person 2,1459396800.0,18,1,open,conducting surveys,closed,conducting surveys for Solution3,Person 2
+35,labeled,-1.0,1456882962.0,Repo 2,89,Evaluation Plan,-1,2,-1,Person 2,1459396800.0,17,1,open,Observing Users for solutions,open,Observing Users using Solution1,Person 2
+36,labeled,1459965476.0,1456882947.0,Repo 2,90,Evaluation Plan,-1,2,-1,Person 2,1459396800.0,17,1,open,Observing Users for solutions,closed,Observing Users using Solution2,Person 2
+37,labeled,1459981582.0,1456882933.0,Repo 2,91,Evaluation Plan,-1,2,-1,Person 2,1459396800.0,17,1,open,Observing Users for solutions,closed,Observing Users using Solution3,Person 2
+38,labeled,1459984677.0,1456882919.0,Repo 2,85,Evaluation Plan,-1,4,-1,Person 2,1459396800.0,16,0,open,Evaluation of solutions: Creating surveys,closed,Creating survey for Solution1,Person 2
+39,labeled,1459961174.0,1456882906.0,Repo 2,86,Evaluation Plan,-1,4,-1,Person 2,1459396800.0,16,0,open,Evaluation of solutions: Creating surveys,closed,Creating survey for Solution2,Person 2
+40,labeled,1459965738.0,1456882881.0,Repo 2,87,Evaluation Plan,-1,4,-1,Person 2,1459396800.0,16,0,open,Evaluation of solutions: Creating surveys,closed,creating survey for Solution3,Person 2
+41,labeled,1459984547.0,1456882860.0,Repo 2,88,Evaluation Plan,-1,4,-1,Person 2,1459396800.0,16,0,open,Evaluation of solutions: Creating surveys,closed,creating survey for comparing Solution1 vs Solution2 vs Solution3,Person 2
+42,labeled,1456883634.0,1456878850.0,Repo 2,84,Mar1,1456886144.0,2,1456875710.0,Person 4,-1,15,0,closed,Mar1 deliverable readiness,closed,Review README,Person 2
+43,labeled,1456808943.0,1456808938.0,Repo 2,82,test,1456809029.0,4,1456210731.0,Person 4,-1,14,0,closed,Solution 3: Testing Phase Iteration1,closed,Test graduation checklist functionality,Person 4
+44,labeled,1456808870.0,1456808864.0,Repo 2,81,test,1456809029.0,4,1456210731.0,Person 4,-1,14,0,closed,Solution 3: Testing Phase Iteration1,closed,Test: seminar requirements,Person 4
+45,labeled,1456808377.0,1456808369.0,Repo 2,80,feature,1456809027.0,6,1456207323.0,Person 4,-1,13,0,closed,Solution 3: Development Phase Iteration 1,closed,Add miscellaneou features,Person 4
+46,labeled,1456808407.0,1456768315.0,Repo 2,78,test,1456809029.0,4,1456210731.0,Person 4,-1,14,0,closed,Solution 3: Testing Phase Iteration1,closed,"Test: choosing subjects, adding enrolled status,etc",Person 4
+47,labeled,1456808397.0,1456768168.0,Repo 2,77,test,1456809029.0,4,1456210731.0,Person 4,-1,14,0,closed,Solution 3: Testing Phase Iteration1,closed,Test: GPA functionality,Person 4
+48,labeled,1456767978.0,1456767154.0,Repo 2,76,feature,1456809027.0,6,1456207323.0,Person 4,-1,13,0,closed,Solution 3: Development Phase Iteration 1,closed,Impliment the functionality to show Maximum/taken/remaining requirements,Person 4
+49,labeled,1456767988.0,1456766011.0,Repo 2,75,feature,1456809027.0,6,1456207323.0,Person 4,-1,13,0,closed,Solution 3: Development Phase Iteration 1,closed,Implimenting calc GPA ,Person 4
+50,labeled,1456767926.0,1456765941.0,Repo 2,74,feature,1456809027.0,6,1456207323.0,Person 4,-1,13,0,closed,Solution 3: Development Phase Iteration 1,closed,Implimenting getting courses taken in past-grades-courses enrolled ,Person 4
+51,labeled,1456767420.0,1456765826.0,Repo 2,73,feasibilty study,1456765261.0,4,1456206572.0,Person 4,-1,12,0,closed,Solution 3: Design Phase Iteration 1,closed,Deciding on how to get grades of student for this solution,Person 4
+52,labeled,1456724620.0,1456724389.0,Repo 2,72,feature,1456724635.0,7,1455658003.0,Person 2,1456722000.0,10,0,closed,Solution 1 testing iteration 2,closed,Test log file,Person 2
+53,labeled,1456724604.0,1456724340.0,Repo 2,71,feature,1456724635.0,7,1455658003.0,Person 2,1456722000.0,10,0,closed,Solution 1 testing iteration 2,closed,Test status activity,Person 2
+54,labeled,1456724584.0,1456724287.0,Repo 2,70,feature,1456724635.0,7,1455658003.0,Person 2,1456722000.0,10,0,closed,Solution 1 testing iteration 2,closed,Test miscellaneous requirement checklist,Person 2
+55,labeled,1456724557.0,1456724241.0,Repo 2,69,feature,1456724635.0,7,1455658003.0,Person 2,1456722000.0,10,0,closed,Solution 1 testing iteration 2,closed,Test seminar activity,Person 2
+56,labeled,1456724534.0,1456724198.0,Repo 2,68,feature,1456724635.0,7,1455658003.0,Person 2,1456722000.0,10,0,closed,Solution 1 testing iteration 2,closed,Test Courses activity,Person 2
+57,labeled,1456724514.0,1456724162.0,Repo 2,67,feature,1456724635.0,7,1455658003.0,Person 2,1456722000.0,10,0,closed,Solution 1 testing iteration 2,closed,Test degree activity,Person 2
+58,labeled,1456724496.0,1456724083.0,Repo 2,66,feature,1456724635.0,7,1455658003.0,Person 2,1456722000.0,10,0,closed,Solution 1 testing iteration 2,closed,Test my acc activity,Person 2
+59,labeled,1456723892.0,1456692300.0,Repo 2,65,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,implement logging,Person 2
+60,labeled,1456699196.0,1456692272.0,Repo 2,64,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,Implement status activity,Person 2
+61,labeled,1456692321.0,1456686587.0,Repo 2,62,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,implement semester activity ,Person 2
+62,labeled,1456663575.0,1456657233.0,Repo 2,61,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,Implement view seminar activity,Person 2
+63,labeled,1456657176.0,1456653822.0,Repo 2,60,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,Implement seminar activity,Person 2
+64,labeled,1456642753.0,1456636083.0,Repo 2,59,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,Implement degree activity in grad app lite,Person 2
+65,labeled,1456686612.0,1456635427.0,Repo 2,58,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,implement miscellaneous requirement in Grad App lite,Person 2
+66,labeled,1456635768.0,1456627697.0,Repo 2,57,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,implement my acc activity,Person 2
+67,labeled,1456627715.0,1456624874.0,Repo 2,56,feature,1456723933.0,9,1455657891.0,Person 2,1456722000.0,8,0,closed,Solution 1 development iteration 2,closed,Create main activity,Person 2
+68,labeled,1456767503.0,1456379963.0,Repo 2,55,feature,1456809027.0,6,1456207323.0,Person 4,-1,13,0,closed,Solution 3: Development Phase Iteration 1,closed,Implimenting boxed TD,Person 4
+69,labeled,1456304782.0,1456304774.0,Repo 2,54,Mar1,-1,3,-1,Person 3,-1,11,0,open,Solution 2 Testing Iteration,closed,Solution2,Person 1
+70,labeled,1456834416.0,1456237283.0,Repo 2,49,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Database for MS in CN,Person 1
+71,labeled,1456834416.0,1456237283.0,Repo 2,49,feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Database for MS in CN,Person 1
+72,labeled,1456834424.0,1456237133.0,Repo 2,48,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Database for MCS - Data Science ,Person 1
+73,labeled,1456834424.0,1456237133.0,Repo 2,48,feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Database for MCS - Data Science ,Person 1
+74,labeled,1456882840.0,1456236843.0,Repo 2,47,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Database for MCS - Software Engineering track,Person 1
+75,labeled,1456882840.0,1456236843.0,Repo 2,47,feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Database for MCS - Software Engineering track,Person 1
+76,labeled,1456252335.0,1456236784.0,Repo 2,46,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Database for Master of Science track,Person 1
+77,labeled,1456252335.0,1456236784.0,Repo 2,46,feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Database for Master of Science track,Person 1
+78,labeled,1456379840.0,1456210698.0,Repo 2,45,feature,1456809027.0,6,1456207323.0,Person 4,-1,13,0,closed,Solution 3: Development Phase Iteration 1,closed,Create basic structure,Person 4
+79,labeled,1456764720.0,1456206850.0,Repo 2,44,Feature,1456765261.0,4,1456206572.0,Person 4,-1,12,0,closed,Solution 3: Design Phase Iteration 1,closed,Finalizing design for iteration 1,Person 4
+80,labeled,1456378588.0,1456206800.0,Repo 2,43,Feature,1456765261.0,4,1456206572.0,Person 4,-1,12,0,closed,Solution 3: Design Phase Iteration 1,closed,Building paper prototype,Person 4
+81,labeled,1456378900.0,1456206696.0,Repo 2,42,Feature,1456765261.0,4,1456206572.0,Person 4,-1,12,0,closed,Solution 3: Design Phase Iteration 1,closed,Enlist features required,Person 4
+82,labeled,1459961139.0,1456165184.0,Repo 2,41,Mar1,-1,3,-1,Person 3,-1,11,0,open,Solution 2 Testing Iteration,closed,Deploy and Test the application on different platform,Person 3
+83,labeled,1459961139.0,1456165184.0,Repo 2,41,enhancement,-1,3,-1,Person 3,-1,11,0,open,Solution 2 Testing Iteration,closed,Deploy and Test the application on different platform,Person 3
+84,labeled,1456689110.0,1456165125.0,Repo 2,40,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Implement GenerateReport class for fetching results,Person 3
+85,labeled,1456689110.0,1456165125.0,Repo 2,40,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Implement GenerateReport class for fetching results,Person 3
+86,labeled,1456611983.0,1456165000.0,Repo 2,39,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Implement general UI Widgets that can be used across web pages in project.,Person 3
+87,labeled,1456611983.0,1456165000.0,Repo 2,39,enhancement,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Implement general UI Widgets that can be used across web pages in project.,Person 3
+88,labeled,1456612022.0,1456164917.0,Repo 2,38,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Implement SignUp and Log out module for Solution 2,Person 3
+89,labeled,1456612022.0,1456164917.0,Repo 2,38,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Implement SignUp and Log out module for Solution 2,Person 3
+90,labeled,1456612138.0,1456164859.0,Repo 2,37,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Place grid and navigation menu bar in main page,Person 3
+91,labeled,1456612138.0,1456164859.0,Repo 2,37,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Place grid and navigation menu bar in main page,Person 3
+92,labeled,1456612158.0,1456164793.0,Repo 2,36,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Create and apply css for web pages,Person 3
+93,labeled,1456612158.0,1456164793.0,Repo 2,36,enhancement,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Create and apply css for web pages,Person 3
+94,labeled,1456303997.0,1456163052.0,Repo 2,33,Mar1,-1,3,-1,Person 3,-1,11,0,open,Solution 2 Testing Iteration,closed,Database Helper Class,Person 3
+95,labeled,1456303997.0,1456163052.0,Repo 2,33,Feature,-1,3,-1,Person 3,-1,11,0,open,Solution 2 Testing Iteration,closed,Database Helper Class,Person 3
+96,labeled,1456164573.0,1455987312.0,Repo 2,32,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Integrate DB code with UI and Log-in module.,Person 3
+97,labeled,1456164573.0,1455987312.0,Repo 2,32,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Integrate DB code with UI and Log-in module.,Person 3
+98,labeled,1456164514.0,1455987268.0,Repo 2,31,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Implement Log-in module for Solution two.,Person 3
+99,labeled,1456164514.0,1455987268.0,Repo 2,31,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Implement Log-in module for Solution two.,Person 3
+100,labeled,1456203040.0,1455987162.0,Repo 2,30,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Configure the log-in table and requirement table for one course.,Person 3
+101,labeled,1456203040.0,1455987162.0,Repo 2,30,feasibilty study,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Configure the log-in table and requirement table for one course.,Person 3
+102,labeled,1455662987.0,1455659258.0,Repo 2,28,Feature,1456624945.0,1,1455657962.0,Person 2,1456030800.0,9,0,closed,Solution 1 testing iteration 1,closed,Test initial Android Project Structure,Person 2
+103,labeled,1455662943.0,1455659230.0,Repo 2,27,Feature,1456624952.0,1,1455657689.0,Person 2,1456030800.0,6,0,closed,Solution 1 development iteration 1,closed,Develop initial Android Project Structure,Person 2
+104,labeled,1455662923.0,1455659194.0,Repo 2,26,Feature,1456624949.0,1,1455657392.0,Person 2,1456030800.0,5,0,closed,Solution 1 design iteration 1,closed,Design initial Android Project structure,Person 2
+105,labeled,1456724703.0,1455658565.0,Repo 2,25,Feature,1456724743.0,7,1455051545.0,Person 3,1456722000.0,1,0,closed,Solution 1 ,closed,Achieve Milestone - Solution 1 testing iteration 2,Person 2
+106,labeled,1456724688.0,1455658525.0,Repo 2,24,Feature,1456724743.0,7,1455051545.0,Person 3,1456722000.0,1,0,closed,Solution 1 ,closed,Achieve Milestone - Solution 1 development iteration 2,Person 2
+107,labeled,1456724670.0,1455658485.0,Repo 2,23,Feature,1456724743.0,7,1455051545.0,Person 3,1456722000.0,1,0,closed,Solution 1 ,closed,Achieve Milestone - Solution 1 design iteration 2,Person 2
+108,labeled,1456625057.0,1455658443.0,Repo 2,22,Feature,1456724743.0,7,1455051545.0,Person 3,1456722000.0,1,0,closed,Solution 1 ,closed,Achieve Milestone - Solution 1 development iteration 1,Person 2
+109,labeled,1456625039.0,1455658326.0,Repo 2,21,Feature,1456724743.0,7,1455051545.0,Person 3,1456722000.0,1,0,closed,Solution 1 ,closed,Achieve Milestone - Solution 1 design iteration 1,Person 2
+110,labeled,1456625014.0,1455658283.0,Repo 2,20,Feature,1456724743.0,7,1455051545.0,Person 3,1456722000.0,1,0,closed,Solution 1 ,closed,Achieve Milestone - Solution 1 testing iteration 1,Person 2
+111,labeled,1456164618.0,1455656982.0,Repo 2,19,help wanted,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Move Solution2 files to a new directory named Solution2,Person 2
+112,labeled,1456612094.0,1455430345.0,Repo 2,17,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Start implementing validator class,Person 3
+113,labeled,1456612062.0,1455430332.0,Repo 2,18,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Create dummy dataset for implementation,Person 3
+114,labeled,1456612062.0,1455430332.0,Repo 2,18,enhancement,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Create dummy dataset for implementation,Person 3
+115,labeled,1456612094.0,1455430217.0,Repo 2,17,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Start implementing validator class,Person 3
+116,labeled,1455117246.0,1455222657.0,Repo 2,4,group work,None,None,None,None,None,None,None,None,None,closed,Team meeting to define Roadmap for the March deliverables,Person 4
+117,labeled,1456197623.0,1455201861.0,Repo 2,15,research,1456808632.0,4,1455051869.0,Person 4,1456722000.0,2,0,closed,Solution 3: Enhancement to the existing tool,closed,Adding docs for research,Person 4
+118,labeled,1456197823.0,1455201402.0,Repo 2,14,feasibilty study,1456808632.0,4,1455051869.0,Person 4,1456722000.0,2,0,closed,Solution 3: Enhancement to the existing tool,closed,Plan/discuss reusability of code modules for various solutions.,Person 4
+119,labeled,1455430034.0,1455152942.0,Repo 2,12,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Define project folder structure and running maven project in java,Person 1
+120,unlabeled,1455223434.0,1455152907.0,Repo 2,10,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Demo on database design ,Person 1
+121,labeled,1455223434.0,1455152899.0,Repo 2,10,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Demo on database design ,Person 1
+122,labeled,1455162417.0,1455152888.0,Repo 2,9,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Create new branch for the project,Person 1
+123,labeled,1455430079.0,1455152879.0,Repo 2,8,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Deploy Infrastructure for Solution 2,Person 1
+124,labeled,1455430001.0,1455152863.0,Repo 2,7,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Come up with technologies to be used and do feasibility check,Person 1
+125,labeled,1456185788.0,1455152846.0,Repo 2,6,Mar1,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Study on creating databases for this solution with efficient Interfaces,Person 1
+126,labeled,1455155913.0,1455152831.0,Repo 2,5,Mar1,1456724743.0,7,1455051545.0,Person 3,1456722000.0,1,0,closed,Solution 1 ,closed,Study/Search on feasibility of using android.,Person 1
+127,labeled,1455430034.0,1455129575.0,Repo 2,12,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Define project folder structure and running maven project in java,Person 3
+128,labeled,1456197877.0,1455129550.0,Repo 2,11,feasibilty study,1456808632.0,4,1455051869.0,Person 4,1456722000.0,2,0,closed,Solution 3: Enhancement to the existing tool,closed,Technologies to be used for the solution 3,Person 4
+129,labeled,1455223434.0,1455129495.0,Repo 2,10,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Demo on database design ,Person 1
+130,labeled,1455162417.0,1455129432.0,Repo 2,9,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Create new branch for the project,Person 3
+131,labeled,1455430079.0,1455129355.0,Repo 2,8,Feature,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Deploy Infrastructure for Solution 2,Person 3
+132,labeled,1456185788.0,1455129257.0,Repo 2,6,feasibilty study,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Study on creating databases for this solution with efficient Interfaces,Person 1
+133,labeled,1455430001.0,1455129175.0,Repo 2,7,feasibilty study,1456752207.0,21,1455052508.0,Person 3,1456722000.0,4,0,closed,Solution 2,closed,Come up with technologies to be used and do feasibility check,Person 3
+134,labeled,1455155913.0,1455129168.0,Repo 2,5,feasibilty study,1456724743.0,7,1455051545.0,Person 3,1456722000.0,1,0,closed,Solution 1 ,closed,Study/Search on feasibility of using android.,Person 4
+135,labeled,1454384481.0,1454343999.0,Repo 2,3,proj1 feedback,None,None,None,None,None,None,None,None,None,closed,"comments, no grade (yet)",Person 0
+136,labeled,1457068555.0,1457067916.0,Repo 3,50,bug,None,None,None,None,None,None,None,None,None,closed,App receiving clicks from anywhere in the screes,Person 2
+137,labeled,1457068578.0,1457067856.0,Repo 3,49,enhancement,-1,1,-1,Person 2,1457067600.0,16,0,open,Include Telemetry in the system,closed,Create telemetry for the solutions,Person 2
+138,labeled,1456753269.0,1456640571.0,Repo 3,47,bug,None,None,None,None,None,None,None,None,None,closed,Force close on going out of the map,Person 4
+139,labeled,1456753279.0,1456639367.0,Repo 3,46,bug,None,None,None,None,None,None,None,None,None,closed,Add an activity selection screen,Person 4
+140,labeled,1456634972.0,1456631398.0,Repo 3,45,enhancement,None,None,None,None,None,None,None,None,None,closed,Add an 'About' Page,Person 4
+141,labeled,1457034473.0,1456535072.0,Repo 3,40,enhancement,None,None,None,None,None,None,None,None,None,closed,fix unfortunately stopped error on close,Person 3
+142,labeled,1456940385.0,1456535061.0,Repo 3,41,enhancement,None,None,None,None,None,None,None,None,None,closed,show availability of parking spots on click of markers,Person 3
+143,labeled,1456619288.0,1456535016.0,Repo 3,42,enhancement,-1,3,-1,Person 3,-1,15,0,open,Have a login and Signup,closed,create a login screen with authentication,Person 3
+144,labeled,1456619300.0,1456535000.0,Repo 3,43,enhancement,-1,3,-1,Person 3,-1,15,0,open,Have a login and Signup,closed,Create a signup screen for users,Person 3
+145,labeled,1456940318.0,1456534982.0,Repo 3,44,bug,-1,3,-1,Person 3,-1,15,0,open,Have a login and Signup,closed,the SQLite is having issues with signup.. fix them ASAP,Person 3
+146,labeled,-1.0,1456349081.0,Repo 3,35,question,None,None,None,None,None,None,None,None,None,open,LYNDA.com - Please Note Everybody,Person 2
+147,labeled,1456940422.0,1456348500.0,Repo 3,34,question,-1,3,-1,Person 2,1456635600.0,12,0,open,Save NCSU Parking Locations,closed,Discussion - How to save data,Person 2
+148,labeled,1456940535.0,1456348256.0,Repo 3,33,question,-1,1,-1,Person 2,1456635600.0,14,0,open,Introduce DESIGN to parking lots,closed,Design Discussion,Person 2
+149,labeled,1457110301.0,1456347533.0,Repo 3,7,question,-1,3,-1,Person 2,1456635600.0,12,0,open,Save NCSU Parking Locations,closed,Find all NCSU parking sites,Person 2
+150,labeled,1456940578.0,1456347516.0,Repo 3,32,enhancement,-1,3,-1,Person 2,1456635600.0,12,0,open,Save NCSU Parking Locations,closed,Find a way to save the LOCATIONS found in the app,Person 2
+151,labeled,1456278440.0,1456277828.0,Repo 3,27,enhancement,-1,5,-1,Person 3,1456635600.0,9,1,open,App opens with a biased location wrt campus,closed,Add Marker functionality ,Person 2
+152,labeled,1456236649.0,1456235494.0,Repo 3,25,enhancement,1456347789.0,4,1456231568.0,Person 2,1456376400.0,11,0,closed,Implement User Current Location Feature,closed,Implement a periodic current location listener,Person 2
+153,labeled,1456235345.0,1456232064.0,Repo 3,23,enhancement,1456347789.0,4,1456231568.0,Person 2,1456376400.0,11,0,closed,Implement User Current Location Feature,closed,Implement the User Current Location feature programatically,Person 2
+154,labeled,1456276581.0,1456231702.0,Repo 3,21,help wanted,1456347789.0,4,1456231568.0,Person 2,1456376400.0,11,0,closed,Implement User Current Location Feature,closed,Android Mobile Device/Tablet required for this feature testing,Person 2
+155,labeled,1456231967.0,1456231592.0,Repo 3,20,enhancement,1456347789.0,4,1456231568.0,Person 2,1456376400.0,11,0,closed,Implement User Current Location Feature,closed,User Current Location Feature,Person 2
+156,labeled,-1.0,1456231532.0,Repo 3,19,question,-1,5,-1,Person 3,1456635600.0,9,1,open,App opens with a biased location wrt campus,open,To check if we can normalise current location and ncsu parking locations for map home screen,Person 2
+157,labeled,1456230422.0,1456230251.0,Repo 3,17,bug,-1,5,-1,Person 3,1456635600.0,9,1,open,App opens with a biased location wrt campus,closed,Zoom level 12 insufficient,Person 2
+158,labeled,1456229128.0,1456227966.0,Repo 3,15,bug,-1,5,-1,Person 3,1456635600.0,9,1,open,App opens with a biased location wrt campus,closed,Hardcoded code in activity_map.xml,Person 2
+159,labeled,1456226720.0,1456223415.0,Repo 3,12,bug,-1,5,-1,Person 3,1456635600.0,9,1,open,App opens with a biased location wrt campus,closed,Map opens with a satellite mode,Person 2
+160,labeled,1456223506.0,1456223111.0,Repo 3,11,enhancement,-1,5,-1,Person 3,1456635600.0,9,1,open,App opens with a biased location wrt campus,closed,App is not opening with proper location,Person 2

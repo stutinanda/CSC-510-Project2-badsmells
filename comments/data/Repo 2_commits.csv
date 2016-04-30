@@ -1,0 +1,259 @@
+,Time,Sha,User,Message
+0,1460660457.0,9a52d357b68c49bee2f09c2b132a6820d531fa12,Person 2,edit final presentation
+1,1460657415.0,1b759b49c5a47ddcf00a27eb9b97192220da228c,Person 2,final presentation slide
+2,1460082568.0,fdb805af4a980d5a5ecbc4784687021b566cfaad,Person 1,"Update README.md
+
+Included the link for the Report"
+3,1460082445.0,30ac6f2c9b6fce8b67c1fceeac235ff77036f536,Person 1,"Final report 
+
+As a part of April 1 Deliverable"
+4,1460058929.0,9231ee0835d8cbf6aeda373c9b9d270ff16a79df,Person 2,adding link to presentation
+5,1460058766.0,ab0869e404f07814dbafff06b8b08cfb15291c33,Person 2,adding presentation placeholder
+6,1460058511.0,d4ac9b0a561ee34050a79eb9fc27ff729041d110,Person 2,formatting readme
+7,1460058414.0,1cbc4e71b1267fe3c9059f8bee75af2a814672ae,Person 2,formatting readme
+8,1460058112.0,886874b9d8ce4bf514fdeb8f26ebd70ea33f3638,Person 2,readme format changed
+9,1456883371.0,5618ccd642d69906c9b60f81ad33d707897509cb,Person 4,Update Readme.md
+10,1456882538.0,0f2ca1aa147409479b43168dbf0b71f0d9e7b819,Person 2,removed hidden file readme
+11,1456882410.0,9abb5f7cd2e4528a58b228841bf6cd23dd42ec48,Person 2,modified README
+12,1456877850.0,cfe41bd1651aa7c4f989cbb87ce910470e4bd710,Person 4,"Update README.md
+
+march1 draft"
+13,1456834465.0,bbf07202c854e06e45813fffebe7cfd2e048d18b,Person 1,"Merge pull request #79 from jordy-jose/Solution3
+
+Solution3"
+14,1456807007.0,894e56035e435883684ab1fdb32bfefc37a1a8f5,Person 4,Resolve Conflict
+15,1456805463.0,6f9bed27b233945c59a3290095c44489bea63074,Person 4,update ds se tabs
+16,1456723617.0,6999e165c026faf3ad19130b6f0e71e142f643a5,Person 2,resolve merge conflicts
+17,1456723103.0,685e6875913cfdd9e8e9742f2fc40de04842822a,Person 2,Merge branch 'Solution1'
+18,1456721898.0,88c1a9384c31c440892a9b8943dde13463cb4fa6,Person 4,Add logic for advanced substitutes
+19,1456718215.0,fd0bc2c17365392a7c5df8b5be6d89ba149f7d7f,Person 2,creating log file
+20,1456717472.0,ae080f63d78ac372436df14643961f9034f60abf,Person 4,add GPA
+21,1456717030.0,116fbd059964546ecc5a801dd88ec3e020502461,Person 4,Add JS to show requirements
+22,1456713518.0,6e0199cf64b294fcffb2c20cfd7dabf5fcd7b6c7,Person 2,logging user interactions
+23,1456699125.0,022fc8bdab79d5545efcf70292bdcc42a9e7efcf,Person 2,implemented status activity
+24,1456692118.0,c63d1760aa194206772a9c044eb793598f2e429e,Person 2,courses activity added
+25,1456688508.0,94bc0a35cec6faf9f599742f4b8bf39cb68369b7,Person 3,Delete LoginHelper.java
+26,1456688502.0,75d711e1ea417228f98d9220e0ac123319af466b,Person 3,Delete Login.java
+27,1456688496.0,c499bc1845d90e85a10a3bffe6eb2977088b83af,Person 3,Delete MsHelper.java
+28,1456688488.0,850489333e02d6f873c661c1da5a1ec5d21b414c,Person 3,Delete ImsHelp.java
+29,1456688483.0,1b6b5c1b6f45328357364248618e8a6e863bafb3,Person 3,Delete IStatementExecutor.java
+30,1456688477.0,987cca46406e2007f966c199c5f50f5705903a6f,Person 3,Delete IQueryResultSet.java
+31,1456688472.0,6f0a758baf7be8630464f3f1f6d1427b069ca8ec,Person 3,Delete IHashService.java
+32,1456688467.0,f3fd68a9e732fa2b4e3ccb9889c98526e1b26de6,Person 3,Delete IDatabaseConnection.java
+33,1456688459.0,88cbdaf31ae88d2a82ed528565764046747eaba4,Person 3,Delete StatementExecutor.java
+34,1456688453.0,ebc72456cf489d05e629bcc737353464b376961f,Person 3,Delete QueryResultSet.java
+35,1456688447.0,3ed21b45f59c44963a32fb44d6cac9e6cdd5a33b,Person 3,Delete HashService.java
+36,1456688441.0,e53143230491ccab3a32a90b9673a0064bc97428,Person 3,Delete DatabaseConnectionService.java
+37,1456688434.0,c6e0a51146380cd06179082b74b130e926fec613,Person 3,Delete DatabaseConnection.java
+38,1456688422.0,d5cb453f6b5c0b0b504633c16d7ca50ccb6d169a,Person 3,Delete LoginHelper.class
+39,1456688415.0,e4ebf1d7a6ca9a9015c5b62fcd88808b24f7f711,Person 3,Delete Login.class
+40,1456688409.0,48a6dace45e2f7ed480295e6fa6761142dc9d491,Person 3,Delete MsHelper.class
+41,1456688395.0,9ed69ea8ff1de8b04bb94241fdf82dafe6596919,Person 3,Delete ImsHelp.class
+42,1456688390.0,cda3b5b4643b8dd0b02fd10b31b94c60f139723e,Person 3,Delete IStatementExecutor.class
+43,1456688385.0,0a1b3e07e75fb180af393ce8238195a01aa871de,Person 3,Delete IQueryResultSet.class
+44,1456688380.0,a42a8af93c40d71d2df1b97f4fa55467fa476b14,Person 3,Delete IHashService.class
+45,1456688373.0,618f2cbf8e357081980ecc8c2cb0b0f75e6d69d1,Person 3,Delete IDatabaseConnection.class
+46,1456688364.0,d303c33932ce157916d466bfc6b30f0ec86464a1,Person 3,Delete StatementExecutor.class
+47,1456688359.0,bfe314357d43a2cb48fca95d9cfb844c29cfb8f0,Person 3,Delete QueryResultSet.class
+48,1456688353.0,86040073cb760d47c815d3683f4b6c62fdb807e9,Person 3,Delete HashService.class
+49,1456688348.0,ad42ea985dbef2ce778afac01b9d1e00e9a55c7b,Person 3,Delete DatabaseConnectionService.class
+50,1456688343.0,8b2700b903615d4e3bed84978a7bf0b77a4a12c7,Person 3,Delete DatabaseConnection.class
+51,1456688333.0,a2a9c5764d8ba7e0ea264e3f87419c036371e495,Person 3,Delete jbcrypt.jar
+52,1456688324.0,ce721894d89c7f5b864656f0a740c48df137b94f,Person 3,Delete mysql-connector-java-5.1.38-bin.jar
+53,1456688054.0,9e7309afdfe4b8bcc3facd655ff30602a98e8e07,Person 3,Delete LoginHelper.class
+54,1456688049.0,1a399bfb841dc49a5f3c198bfe798576ef288713,Person 3,Delete Login.class
+55,1456688043.0,51fce1e93d3addd2f7e3243b309d34eff8a62a33,Person 3,Delete MsHelper.class
+56,1456688030.0,9ffebced879e2d8fd4acf6a2a2b0d2481baa0718,Person 3,Delete ImsHelp.class
+57,1456688025.0,902a55325fdffea2eb2f0880e2a8d41514b85112,Person 3,Delete IStatementExecutor.class
+58,1456688018.0,49f485cef70eed6d768ce46ab2e5952df6716363,Person 3,Delete IQueryResultSet.class
+59,1456688013.0,8cdaa2ca36d2c994af25d0d93711b11fec6f7388,Person 3,Delete IHashService.class
+60,1456688008.0,068abbe4ccff81f7daf61b955aae96027644659b,Person 3,Delete IDatabaseConnection.class
+61,1456687999.0,ce863c7b623a1c28a322873f1a66d4ac0ce9d99a,Person 3,Delete StatementExecutor.class
+62,1456687995.0,834987338d675d4e4cdcbad2397fccc9faf0ffa0,Person 3,Delete QueryResultSet.class
+63,1456687990.0,b45a8f81dcf5dfe9ce4545db67aa8d7159c44c9c,Person 3,Delete HashService.class
+64,1456687986.0,f845d9bef2db362467d8cdb7bcd84da1359feb5c,Person 3,Delete DatabaseConnectionService.class
+65,1456687980.0,9df2ebfceb5b25d96aee17fbc741eb75e549ea38,Person 3,Delete DatabaseConnection.class
+66,1456687969.0,c40ebb8a3af5904602d4d64625beb40567e5cda4,Person 3,Delete StatementExecutor.java
+67,1456687962.0,16e0a20d6253d0be2854b171cc01560e6bacbceb,Person 3,Delete QueryResultSet.java
+68,1456687956.0,6455cc46b344ce852f878e8075bb9fc673be3a4b,Person 3,Delete HashService.java
+69,1456687950.0,58705b5313acbf3aca9d1725a44c8a00409ce221,Person 3,Delete DatabaseConnectionService.java
+70,1456687944.0,1240192384235dc62df8f1989540be712bbaf257,Person 3,Delete DatabaseConnection.java
+71,1456687928.0,bb3ab3c184c8c76ef6cc3c231f07a318dde6b586,Person 3,Delete ImsHelp.java
+72,1456687923.0,33927d012af900f0368b83844d09e2fa80f12861,Person 3,Delete IStatementExecutor.java
+73,1456687917.0,fd45952592a786efc849e25ae03d6a267382bcc2,Person 3,Delete IQueryResultSet.java
+74,1456687911.0,1872babcbe9920a8e452f00ce199efacc000a2b4,Person 3,Delete IHashService.java
+75,1456687905.0,ffd381dd264022740c87b47a07a353c17a65fa58,Person 3,Delete IDatabaseConnection.java
+76,1456687898.0,b604864523cb5014c1fdd7b4a54cba9ee574a66c,Person 3,Delete MsHelper.java
+77,1456687886.0,cfd6cbf20f24df5752a23f4fcd1f17966c9c8a1a,Person 3,Delete LoginHelper.java
+78,1456687876.0,6e448f84655c8f6c0898f4f37784f1307af8a160,Person 3,Delete Login.java
+79,1456687857.0,30e41e3c9532525fa75da5426770dc85d6b1d261,Person 3,Delete jbcrypt.jar
+80,1456687850.0,900ae2ab0e5e12c746f91de4b4ba831f13adb394,Person 3,Delete mysql-connector-java-5.1.38-bin.jar
+81,1456687594.0,91e97763344588e0f1bb379e594696876ede597e,Person 3,Code changes to include DB functions and form data
+82,1456686394.0,ecb0ca5394dd75704a8c2cc514e4eb567d9bdb49,Person 2,miscellaneous requirements checking feature implemented
+83,1456683351.0,0af3a77af3dedb5f227a9850086adc2dd7728efe,Person 2,"miscellaneous activity- implemented add, removed and edit. Check is pending"
+84,1456663466.0,55bdebfdf95834a7e73bbc57317c4051a3def2dd,Person 2,view seminar activity added
+85,1456657096.0,d2bfa795f3f0ff34fe45d969cd324ab2b7dd30b4,Person 2,added activity seminar
+86,1456642568.0,cc1895702fbd68b5fb69244ad86371212ae231a9,Person 2,degree activity added
+87,1456635621.0,f7cbfd968db902b14f2ff5fdc7ba4bab7c90ed52,Person 2,my acc activity implemented
+88,1456632818.0,064ebc4e9063537ba23183b60a96bfcb0b2b42c0,Person 4,add computer science track requirements
+89,1456627509.0,f21dbc7fcbeb9b06b92922fa0179f6484e5fae94,Person 2,adding main activity
+90,1456391948.0,d8d88242420def7c3a2710541be3e6b2fac69005,Person 2,added new activity for entering education details
+91,1456382148.0,d6750f2afb74fbefb3ead2a37989de4713c5e7ca,Person 2,merging changes to master
+92,1456380530.0,a5a1313c6a273f9f4c67ec3bfe9bf78d94327bea,Person 2,created an activity for handling user information
+93,1456306083.0,141b116d0e8c2629f52751ce433ead9fdd1660f9,Person 1,"Added files via upload
+
+Uploaded the new interface and class to create a table from HashMap from the client, update the table and read the table"
+94,1456305996.0,a86520a6cc656b47fd06bcc9decf47c41ff6a4a9,Person 1,Delete mysql-connector-java-5.1.38-bin.jar
+95,1456305991.0,9c1d5da869abd9e7d1a1a7ec64bb1cdc9da878d3,Person 1,Delete jbcrypt.jar
+96,1456305986.0,1f22672614bb1d73509ed0d0929958f346b133b4,Person 1,Delete LoginHelper.java
+97,1456305980.0,7a387b084d5f37262820f5e1449592e99ebdb9d1,Person 1,Delete Login.java
+98,1456305973.0,230761fa6692269416e3f77c3f6f8f7a272f311d,Person 1,Delete MsHelper.java
+99,1456305965.0,553fe083fa5faa6f0f26a65829a88843d0c12fcc,Person 1,Delete ImsHelp.java
+100,1456305961.0,50251f337c6f7321d38caf2cf74aab3e10b8d617,Person 1,Delete IStatementExecutor.java
+101,1456305957.0,832f132f1c93ec5259a01ba7962f2a5589d22bd5,Person 1,Delete IQueryResultSet.java
+102,1456305951.0,d00eb68f02bae774faec682f151acef7c2b39dda,Person 1,Delete IHashService.java
+103,1456305946.0,3054a415734d2e375cf9241cade4f6632720fdae,Person 1,Delete IDatabaseConnection.java
+104,1456305937.0,490db6d6e4895ac77553cae6838830b51fc7dc9e,Person 1,Delete StatementExecutor.java
+105,1456305931.0,fbac2805244f807eaa017fa136d5eff7cd6309f7,Person 1,Delete QueryResultSet.java
+106,1456305926.0,b7e0df884b1d82f53de9e92e67aeada5e3acb4d4,Person 1,Delete HashService.java
+107,1456305919.0,6c30bceefd5159dad3e7334fb0af9d18a94ec87a,Person 1,Delete DatabaseConnectionService.java
+108,1456305914.0,f28cc17ee38206be754cfb8626f88fabe8779a83,Person 1,Delete DatabaseConnection.java
+109,1456305900.0,1d649da39b1bde48fa73216fa3773462e3e6c8e0,Person 1,Delete LoginHelper.class
+110,1456305894.0,ec0107ef31d78dc85389c7fe235c85a822367f8a,Person 1,Delete Login.class
+111,1456305888.0,98cb10c6803d76f99a79cca263da30c75d8a05ed,Person 1,Delete MsHelper.class
+112,1456305881.0,4053e3be29748cfba12f541261b7ab9fc0afb8aa,Person 1,Delete ImsHelp.class
+113,1456305875.0,1687ff982ac1ea9549584364ceb9e82a69fe5dd5,Person 1,Delete IStatementExecutor.class
+114,1456305871.0,5cf461783c5a0e93208076d9df7a8a27ae8ff658,Person 1,Delete IQueryResultSet.class
+115,1456305867.0,17e02b456858ffeb8a057735999ce084ef5e98dc,Person 1,Delete IHashService.class
+116,1456305862.0,935a9cf567117919813c5ce03977fd034683d404,Person 1,Delete IDatabaseConnection.class
+117,1456305856.0,0cb85444f08cc8657256a83ed6ef6ff5abff62c8,Person 1,Delete StatementExecutor.class
+118,1456305850.0,77efb83edbd3e5ed3679fdfee9ab6dd6d5756ba4,Person 1,Delete QueryResultSet.class
+119,1456305844.0,d84423fe17c71faf9d86c5ac0e7c803fe4cb923b,Person 1,Delete HashService.class
+120,1456305839.0,28e7de8062381cbfaa0af5d337fd2ef9bf03c5f3,Person 1,Delete DatabaseConnectionService.class
+121,1456305833.0,21787a8612403d3b837dd61d9f272cd78daefd57,Person 1,Delete DatabaseConnection.class
+122,1456305588.0,a0172081cf2bc9d5263a296ebea39983aef1f8da,Person 1,"Delete ms.txt
+
+Have to change Unity ID from INT to VARCHAR"
+123,1456305502.0,2cdc50694559cf7078deb1ca8cf09d087f268779,Person 1,"Added files via upload
+
+Updated DBScripts to create 2 tables - Student Info and MS (Master of Science) track"
+124,1456305201.0,b816ff1aec83712f3170711d86a885d83a84b880,Person 1,"Delete ms.txt
+
+I used integer for Unity ID, instead of varchar"
+125,1456305113.0,0113a46dc87c1886c6ee831d9be698760e615c7c,Person 1,Added files via upload
+126,1456305038.0,bdaf7a69f2b91e496549a79a03718a456f115d7e,Person 1,Delete stud_info.png
+127,1456305032.0,7ff7d279b5eaa33c6859f722b47d08a604b56962,Person 1,Delete MS.png
+128,1456305018.0,938181c2b4118da8dedc7218e3c8f5642726217e,Person 1,Delete stud_info.png
+129,1456305013.0,3c695b840215a11a4b3330d50fbdc46266a46fdb,Person 1,Delete MS.png
+130,1456304782.0,9e7e2ed793abc2d31619251e46241f6dfe6c1403,Person 1,"Merge pull request #54 from jordy-jose/Solution2
+
+Solution2"
+131,1456304270.0,3b500cd64e3a017e25da944effee328907953b57,Person 1,"Merge pull request #53 from jordy-jose/Angelyn-patch-1
+
+Angelyn patch 1"
+132,1456304253.0,d27d49ef4f379fbffebb4cf84c973a19c4515f04,Person 1,"Added files via upload
+
+Added files to include classes which provide methods for Reading, Updating and Inserting capability in master table of database.
+Client side expect the data to be passed as Hashmap and will send across data in Hashmap as well."
+133,1456286305.0,823424168933ebac447dabe5ea2ddffaf988ab4b,Person 1,"Merge pull request #52 from jordy-jose/Solution2
+
+Solution2"
+134,1456286222.0,1831d455bfae18ae326793242c9d0eec9fcde0d1,Person 1,"Merge pull request #51 from jordy-jose/Angelyn-patch-1
+
+Added files via upload"
+135,1456286205.0,7a044d23241f124ec2042355400cd56dc75aaa9c,Person 1,"Added files via upload
+
+Add DB script for the tables MS and StudentInfo"
+136,1456285341.0,43ad06fc9233bd5f8893651879609ce0c703af7a,Person 4,Boxed TD CSS
+137,1456282457.0,8424b0f5be846615fc1df129372e8d38967fec07,Person 4,Add Sample Tab Impl
+138,1456243046.0,8e1b48d25ad7d7be5ac4ecdb573153385dbbe241,Person 1,"Merge pull request #50 from jordy-jose/Angelyn-patch-1
+
+Angelyn patch 1"
+139,1456242951.0,adf5090fe38fb256b74a88993f26d16334ad26d5,Person 1,Added files via upload
+140,1456242724.0,e7e632c3208ecc48de2fa266ed14b2085ccebb73,Person 1,Delete stud_info.png
+141,1456242717.0,c3412b61c95fe19c74ce9894ffd9f9b4ebab166e,Person 1,Delete MS.png
+142,1456242681.0,4881328a08ba8b038299a2a9b3df52c6a0665306,Person 1,"Added files via upload
+
+A snapshot of the databases in the shema:
+Student Information - <Unity ID, password>
+Master of Science - <Unity ID, graduation requirements met so far>"
+143,1456164431.0,3bd00274f3e6208a08567495f8210d7755420f01,Person 3,"Merge pull request #35 from jordy-jose/Solution2
+
+Solution2"
+144,1456164398.0,ad86535a991a4a5665aa5f17879345b893d920d9,Person 3,Delete README.md
+145,1456164389.0,0480886916b71eb6c07c5b256ec15e52959c0eb6,Person 3,Delete Proposal.pdf
+146,1456164379.0,c10884ca18cebfa33bf978112976d26c327d531b,Person 3,Delete PROBLEM STATEMENT.docx
+147,1456164368.0,0bf20bdff596100710f49593401df63ce151fa4f,Person 3,Delete profiles_settings.xml
+148,1456164359.0,0f5c26a300a08a428ee858dd1172e1d55e9ca403,Person 3,Delete workspace.xml
+149,1456164335.0,1b45619f751a6cebcbc638eb77c02f0dfeadb0ce,Person 3,Delete vcs.xml
+150,1456164328.0,a48d3c927c982d2e720717d24fc9f2f15fa44ecf,Person 3,Delete uiDesigner.xml
+151,1456164318.0,65a314f38188f05f20265d0bc3f81c284d486852,Person 3,Delete modules.xml
+152,1456164313.0,cdab152dc50a4671cbdec289e79c4b67402ca5bc,Person 3,Delete misc.xml
+153,1456164306.0,4e572b5850aed9a22ee30784a242a56e310a697c,Person 3,Delete compiler.xml
+154,1456164298.0,99c1358a8812f8c3538018cec2eb7a6d51fdf988,Person 3,Delete .name
+155,1456164291.0,613a2b5c9ca2b599f8fe0ca3ad19326d17e1b906,Person 3,Delete .bash_profile
+156,1456164271.0,be12292e573246a34cdab15a8f8e77d882ea55ff,Person 3,Delete profiles_settings.xml
+157,1456164262.0,c2c900ccc2b827a37d305222282acba2ff207449,Person 3,Delete workspace.xml
+158,1456164252.0,1202c3422d6a828bfc8187c94e7750bc2a4c085e,Person 3,Delete vcs.xml
+159,1456164247.0,178ae933cd2b21be9f4bcd6b68844631dc75d503,Person 3,Delete uiDesigner.xml
+160,1456164239.0,82a81cfa19a8ee31a69ef0b56f1c4cfbf84bdbd5,Person 3,Delete modules.xml
+161,1456164119.0,75adc875eb3a4aff77fbbd50a65b799c6023e456,Person 3,Delete misc.xml
+162,1456164108.0,d67fb73266313a89233c9ad4f18ee9ea02c24192,Person 3,Delete compiler.xml
+163,1456164097.0,0d252bc0c9a4067862049d1ea940b64a0be23823,Person 3,Delete .name
+164,1456164061.0,1e91953d19906f1713a411cc54be43dcbd46601e,Person 3,Delete .bash_profile
+165,1456163883.0,250597e133762c24c794eda70c824df72c079f36,Person 3,Added files via upload
+166,1456163787.0,bb2ebcf06e56e6a2a86229b3d99c71085fe8db9a,Person 3,"Merge pull request #34 from jordy-jose/Solution2
+
+Solution2"
+167,1456163535.0,b574690e6259dc6e308c252cde3aeb6aa05f04e4,Person 3,"GWT Java Project
+
+Implemented Client dummy pages
+SQL DB connection handler and DB files
+Login module for the application
+Some CSS and styling features
+Basic project structure"
+168,1455988149.0,a4e18017957e50d1de2565a0f56c9ef5fc8d099f,Person 3,Created Solution 2 folder
+169,1455988108.0,65bbf25729f156d0152007240917167ef54aee52,Person 3,Merge branch 'master' into Solution2
+170,1455661853.0,5790a36fd3bbcf55dd56ea1735c1239b9353b2f3,Person 2,initial structure for Solution1 Android App
+171,1455476582.0,eddb3fb162276bdba66d6fdc647ccc2f199706c5,Person 3,Update README.md
+172,1455476462.0,e477a569ca856381f15074c7bbc76af0847b538e,Person 3,Update README.md
+173,1455476330.0,458dbba1a125afea66eefba059a7c3d8cce72b7c,Person 3,"Merge pull request #16 from jordy-jose/Solution2
+
+Merging Solution two project to master"
+174,1455476156.0,caa3fe37b145a99737db372ca24700e4c7229bf4,Person 3,"Merge branch 'master' into Solution2
+
+# Conflicts:
+#	README.md"
+175,1455429781.0,279d72e1107faab5af3a2306e7b59281db6cea2f,Person 3,Test Idea git plugin
+176,1455428126.0,77a7088bda1baca6695dc0cd3f9d27e34c1a9a40,Person 3,"Project folder structure with dummy working example.
+Database helper code moved."
+177,1455426203.0,8ac088211842abeb801fcc2a82339ac68c4b12cb,Person 3,"Project folder structure with dummy working example.
+Database helper code moved."
+178,1455425981.0,fc899e088b372aaa7d506bcb774850ae33bb7294,Person 3,"Project folder structure with dummy working example.
+Moved Database helper class inside the project folder."
+179,1455219576.0,a330612bd33aa925ca616950916cae00400e215a,Person 1,Update README.md
+180,1455219500.0,cb22988ece7914e910827ab0282faac2155c7969,Person 1,Update README.md
+181,1455204430.0,2739723369bb7df24b2a2b08d8b79e351800cd70,Person 4,"Update README.md
+
+Add repo details, links etc."
+182,1455204222.0,365adbbca71337fc0d7af02b799756abd3c1ca0c,Person 4,Update README.md
+183,1455168719.0,8ac236f7843844e66151944e841593a6d36667ee,Person 2,added a database connection module
+184,1455153303.0,c3a895ddee8da7af8459643579afaafb44108883,Person 1,Update README.md
+185,1455153274.0,d610cb26c52ddc0595d3d4ccc3e551429ec54809,Person 1,Update README.md
+186,1455153252.0,914b7f6e21147f3d1a4f4fd6b6248c5627c0182e,Person 1,Update README.md
+187,1455129894.0,b8acaa7ff50790488226551a302a8342d1a5ec47,Person 3,Update README.md
+188,1454291136.0,b0f4c0a30f294bec23782a924b53255278dc3228,Person 1,"Merge pull request #2 from jordy-jose/Proposal
+
+Feb 1 deliverable - Proposal document"
+189,1454290580.0,97c3bf30badf5ea8fe2ed2369271caa32f7c1b27,Person 1,"Feb 1 deliverable - Proposal document
+
+Proposal for a software tool to make the current my pack portal more
+efficient in order to keep track of the student’s academic progress
+towards graduation"
+190,1453225963.0,f505763e93bbe54356d2582881e272c3d701fa9c,Person 2,modified problems identified
+191,1452551831.0,cde144437b4ff136d05e2ea6615355c8a9786963,Person 2,added a brief description of problems identified so far
+192,1452293485.0,61c7f140ca7db05c29edb7896a2d041cc1783849,Person 2,"Merge pull request #1 from jordy-jose/master
+
+Added a docx file, members will work on this file to create the FEB 1…"
+193,1452292435.0,c13b12426598475e16454abfe1b8f3e7e8d9535a,Person 2,"Added a docx file, members will work on this file to create the FEB 1 deliverables"
+194,1452288410.0,603b62237ecc62784bd371f4b671f37e06f7c555,Person 2,Initial commit

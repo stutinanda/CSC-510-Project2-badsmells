@@ -1,0 +1,52 @@
+,Issue,User,Created at,Updated at,Text,Identifier
+0,3,Person 1,1454894217.0,1454894217.0,"As we only need one node for our server, Mongo DB is efficient enough and hence we should use MongoDB. I have worked with it before so it would be easier as well.",181151440
+1,6,Person 3,1454894274.0,1454894274.0,"I think python is the right way to go. Just see the link below for reference:
+https://clarknikdelpowell.com/blog/creating-sublime-text-3-plugins-part-1/ ",181151553
+2,5,Person 1,1454894287.0,1454894287.0,https://github.com/timm/timm.github.io/blob/master/pdf/06anomalies-pits0.pdf Here is a paper Dr.Menzies  gave me. We should study it ASAP and then we can hold discussions on it.,181151563
+3,4,Person 4,1454894368.0,1454894368.0,Working on NLTK in python.,181151713
+4,2,Person 1,1454894371.0,1454894371.0,Me and Ayush would work on the server part I guess? as you guys are working on the NLTK part. This part needs to be finished ASAP!,181151731
+5,3,Person 1,1454894435.0,1454894435.0,Also for the DB structure lets finalize the needed fields and add the structure up here. Then we can compare and contrast to arrive at an optimal structure.,181151954
+6,2,Person 3,1454894438.0,1454894438.0,Yes. Sounds Good.,181151967
+7,6,Person 1,1454894517.0,1454894517.0,Lets get started on this part after we finish off our server part atleast. Also more focus should be on the recommendation system part for now as it is the base of our project.,181152108
+8,2,Person 1,1455589269.0,1455589269.0,"No need to create a server for fetching data using API calls. We found their official dump:
+https://archive.org/download/stackexchange
+Need to Download these:
+stackoverflow.com-Posts.7z   
+stackoverflow.com-Tags.7z   
+stackoverflow.com-Users.7z 
+
+The size for download is about 8 gbs. Can someone download it overnight maybe? The speed is really low,so would take around 15 hrs or so... ",184477329
+9,2,Person 1,1455589350.0,1455589350.0,Also now we can write a script to translate the XML with tags of python and corresponding posts and users into a DB for our use. So which DB to use now? Should we go with nosql ones (they are extremely fast) or the conventional mysql lampp stack.,184477708
+10,1,Person 2,1455666773.0,1455666773.0,Thanks for the feedback.,184929676
+11,15,Person 3,1456089175.0,1456089175.0,Ya sure... lets filter out just the data we need and add it to the DB tonight,186918809
+12,17,Person 3,1456192718.0,1456192718.0,"I will develop a prototype by 26th Feb and we can use that as a base for future iterations. 
+",187478341
+13,16,Person 1,1456193118.0,1456193118.0,"We have two options: a) request su mode from the user while installing and install mongo and make the db server run everytime the plugin boots before the db client connects
+b) use a txt file or a json file and make the plugin read from it",187480803
+14,16,Person 1,1456193200.0,1456193200.0,which one do you think is more optimal?,187481626
+15,20,Person 1,1456464000.0,1456464000.0,Cool found and pulled it! Working! Awesome job!,189118203
+16,16,Person 1,1456464081.0,1456464081.0,everything is on the localhost for now! well see how it goes!,189118336
+17,21,Person 3,1456464218.0,1456464218.0,Cool.. lets get on to it and finish it ASAP,189118579
+18,4,Person 2,1456693674.0,1456693674.0,Using Topic Modeling and K-Mean classifier along with NLTK.,189946398
+19,25,Person 1,1456855681.0,1456855681.0,Done!,190836817
+20,29,Person 2,1456855894.0,1456855894.0,"The tags present in data are:
+1. Id
+2. ViewCount
+3. Title
+4. LastEditDate
+5. AnswerCount
+6. Score
+7. OwnerDisplayName
+8. PostTypeId      --1 for Question/ 2 for Answers
+9. OwnerUserId
+10. Body
+11. Tags
+12. LastEditorUserId
+13. LastActivityDate
+14. CommentCount
+15. AcceptedAnswerId
+16. CreationDate",190837884
+21,30,Person 3,1456867983.0,1456867983.0,Done..!,190914512
+22,31,Person 1,1456880238.0,1456880238.0,this would be done later when we are through we the data analysis part! closing this for now! ,190999636
+23,32,Person 4,1457066475.0,1457066475.0,Have added sol2keywords.json file which has required data.,192098973
+24,28,Person 4,1457072509.0,1457072509.0,Working on it,192129321

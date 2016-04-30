@@ -1,0 +1,80 @@
+,Issue,User,Created at,Updated at,Text,Identifier
+0,5,Person 2,1455155913.0,1455155913.0,"To check the feasibility of solution 1 as an Android application
+-Started learning Android App development.
+-Developed two simple applications during the process.
+Solution 1 would make more sense as an easy to use, light weight mobile app.
+This is achievable. Hence, closing the issue.",182671402
+1,6,Person 1,1455156463.0,1455156463.0,Started learning Database design,182672568
+2,10,Person 2,1455169305.0,1455169305.0,"checked in the prototype for the Database Connection module demo, along with user authentication functionality.
+planning to give the demo on 11 FEB 3PM.",182721655
+3,13,Person 4,1455201090.0,1455201090.0,Done,182888893
+4,15,Person 4,1455202208.0,1455202208.0,http://www.sitepoint.com/twitter-bootstrap-tutorial-handling-complex-designs/,182895279
+5,10,Person 2,1455223434.0,1455223434.0,Demo given!,183053627
+6,7,Person 3,1455430001.0,1455430001.0,Ran a dummy end to end system with the technologies finalized.,183827732
+7,12,Person 3,1455430034.0,1455430034.0,Checked in project to git repo.,183827751
+8,8,Person 3,1455430078.0,1455430078.0,Checked in code.,183827764
+9,29,Person 2,1455662760.0,1455662760.0,"Not a good idea to merge to master branch now. Hence, closing the request.",184905604
+10,26,Person 2,1455662923.0,1455662923.0,Completed. Changes checked in to branch Solution1.,184906254
+11,27,Person 2,1455662943.0,1455662943.0,Completed. Changes checked in to branch Solution 1,184906352
+12,28,Person 2,1455662987.0,1455662987.0,Completed. Changes checked in to branch Solution 1.,184906520
+13,31,Person 3,1455987371.0,1455987371.0,Solution 3 and Solution 2 can share this functionality.,186652378
+14,31,Person 3,1456164506.0,1456164506.0,Implemented and pushed the changes.,187298533
+15,32,Person 3,1456164573.0,1456164573.0,Have implemented new LoginHelperService in server code to make data connection.,187298885
+16,19,Person 3,1456164618.0,1456164618.0,Committed the changes and merged with master,187299093
+17,30,Person 1,1456203040.0,1456203040.0,"Created A schema with the 2 tables
+One for login
+Another for checking the course requirements for 'Master of Science'",187529203
+18,46,Person 1,1456252335.0,1456252335.0,Database created ,187831621
+19,33,Person 1,1456303997.0,1456303997.0,"Created an interface and a new class MsHelper to insert the HashMap data into the database, update the database and also read the table",188144560
+20,43,Person 4,1456378588.0,1456378588.0,![image](https://cloud.githubusercontent.com/assets/13955480/13310857/bb7fddd6-db57-11e5-8b61-d6d29046e013.jpg),188622227
+21,42,Person 4,1456378899.0,1456378899.0,"![image2](https://cloud.githubusercontent.com/assets/13955480/13310954/85eac5f4-db58-11e5-87fd-9a0448dc6652.jpg)
+",188622997
+22,45,Person 4,1456379840.0,1456379840.0,Done,188627453
+23,39,Person 3,1456611981.0,1456611981.0,Widgets used can be found under CustomWidgets class,189739291
+24,38,Person 3,1456612021.0,1456612021.0,Login and logout module can be found under LoginHelperService,189739328
+25,18,Person 3,1456612060.0,1456612060.0,Created dummy dataset demo on MySql to test the app,189739368
+26,17,Person 3,1456612094.0,1456612094.0,Created Validator class in server code to do the validation.,189739404
+27,37,Person 3,1456612138.0,1456612138.0,Implemented some basic xml and html project base page structure,189739456
+28,36,Person 3,1456612158.0,1456612158.0,Basic css implemented,189739476
+29,56,Person 2,1456627715.0,1456627715.0,implemented and pushed,189767685
+30,57,Person 2,1456635768.0,1456635768.0,Done!,189783980
+31,59,Person 2,1456642753.0,1456642753.0,Done,189804096
+32,60,Person 2,1456657176.0,1456657176.0,Done,189839925
+33,61,Person 2,1456663575.0,1456663575.0,Done!,189864157
+34,58,Person 2,1456686612.0,1456686612.0,Done.,189923910
+35,40,Person 3,1456689110.0,1456689110.0,Pushed generateReportFunction function for validation,189933160
+36,62,Person 2,1456692321.0,1456692321.0,Done,189943068
+37,64,Person 2,1456699196.0,1456699196.0,Done,189960572
+38,65,Person 2,1456723892.0,1456723892.0,Done,190052210
+39,66,Person 2,1456724496.0,1456724496.0,verified.,190054880
+40,67,Person 2,1456724514.0,1456724514.0,Verified,190054904
+41,68,Person 2,1456724534.0,1456724534.0,Verified,190054930
+42,69,Person 2,1456724557.0,1456724557.0,Verfied,190054963
+43,70,Person 2,1456724584.0,1456724584.0,Verified,190055015
+44,71,Person 2,1456724604.0,1456724604.0,Verified,190055043
+45,72,Person 2,1456724620.0,1456724620.0,Verified,190055071
+46,23,Person 2,1456724670.0,1456724670.0,achieved.,190055151
+47,24,Person 2,1456724688.0,1456724688.0,achieved,190055181
+48,25,Person 2,1456724703.0,1456724703.0,achieved,190055213
+49,73,Person 4,1456767479.0,1456767479.0,Providing the context (i.e. through form) as if its coming through my pack itself.,190304402
+50,55,Person 4,1456767503.0,1456767503.0,Done,190304512
+51,74,Person 4,1456767926.0,1456767926.0,Done,190306443
+52,76,Person 4,1456767978.0,1456767978.0,Done,190306688
+53,75,Person 4,1456767988.0,1456767988.0,Done,190306728
+54,80,Person 4,1456808377.0,1456808377.0,done ,190547014
+55,77,Person 4,1456808397.0,1456808397.0,done,190547059
+56,78,Person 4,1456808407.0,1456808407.0,done,190547082
+57,81,Person 4,1456808870.0,1456808870.0,done,190548551
+58,82,Person 4,1456808943.0,1456808943.0,done,190548729
+59,83,Person 4,1456878029.0,1456878029.0,Updated the draft. Sending for review. Closing this issue.,190985416
+60,84,Person 2,1456883509.0,1456883509.0,completed.,191015220
+61,84,Person 4,1456883513.0,1456883513.0,Reviewed the updates. ,191015248
+62,84,Person 2,1456883634.0,1456883634.0,closing the issue!,191015653
+63,87,Person 4,1459784818.0,1459784818.0,Created initial survey questions for solution3. ,205359946
+64,87,Person 4,1459955573.0,1459955573.0,@Angelyn Please review the questions and let me know if they need any revisions,206420550
+65,41,Person 3,1459961136.0,1459961136.0,Closing the issue. Will be documented in report as one of the enhancement.,206459244
+66,90,Person 1,1459965475.0,1459965475.0,Users were studied and the usage of Solution2 was evaluated,206488635
+67,87,Person 1,1459965717.0,1459965717.0,I have read the questions. Looks good. We can send them out,206491364
+68,87,Person 4,1459965738.0,1459965738.0,Thanks! closing this issue.,206491694
+69,88,Person 1,1459984547.0,1459984547.0,Survey created and sent out.. ,206615953
+70,85,Person 2,1459984677.0,1459984677.0,Done!,206616540

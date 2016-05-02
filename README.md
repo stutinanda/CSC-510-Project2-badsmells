@@ -9,7 +9,7 @@
 ### Report:
   * [GitHub Bad Smells And Early Smoke Analysis By Group D.](https://github.com/stutinanda/CSC-510-Project2-badsmells/blob/master/May_1_Report.pdf)
 
-#### Bad Smells
+#### Bad Smells:
 
   * Uneven Person Commits [See Here.](https://github.com/stutinanda/CSC-510-Project2-badsmells/tree/master/uneven_person_commits)
   * Issue Exceeding Milestone Due Date [See Here.](https://github.com/stutinanda/CSC-510-Project2-badsmells/tree/master/issue_exceeding_milestone_due_date)
@@ -23,7 +23,7 @@
   * Commits linked with issues  [See Here.](https://github.com/stutinanda/CSC-510-Project2-badsmells/tree/master/bad_smell_detection_from_comments_data)
 
 
-#### Early Smokes
+#### Early Smokes:
 
  * Individual Weekly Commits [See Here.](https://github.com/stutinanda/CSC-510-Project2-badsmells/tree/master/early_smoke_individual_weekly_commits)
  * Milestone Completion Trend [See Here.](https://github.com/stutinanda/CSC-510-Project2-badsmells/tree/master/early_smoke_milestone_completion_trend)

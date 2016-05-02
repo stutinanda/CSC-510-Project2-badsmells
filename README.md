@@ -7,7 +7,7 @@
 * Stuti Nanda
 
 ### Report:
-  * [GitHub Bad Smells And Early Smoke Analysis By Group D.](https://github.com/stutinanda/CSC-510-Project2-badsmells/blob/master/May_1_Report.pdf)
+  * [GitHub Bad Smells And Early Smoke Analysis By Group D.](https://github.com/stutinanda/CSC-510-Project2-badsmells/blob/master/May1_report_GroupD.pdf)
 
 #### Bad Smells:
 

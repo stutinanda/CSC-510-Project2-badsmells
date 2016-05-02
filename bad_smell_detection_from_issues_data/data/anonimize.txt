@@ -1,2 +1,0 @@
-name1=value 1
-name2=value 2

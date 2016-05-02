@@ -34,7 +34,7 @@ def secs(d0):
 
 def dump1(u, issues):
     global row_list
-    token = "token"  # <===
+    token = "b7814cf93fbc3f0fb2d370b1325f59a02e91b0d5"  # <===
     request = urllib2.Request(u, headers={"Authorization": "token " + token})
     v = urllib2.urlopen(request).read()
     w = json.loads(v)

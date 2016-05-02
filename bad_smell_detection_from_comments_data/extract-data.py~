@@ -97,9 +97,9 @@ def dumpComments(u, comments, token):
 def dump(u, data, dumpwhat):
   try:
     if dumpwhat is 'comments':
-        return dumpComments(u, data, "token")
+        return dumpComments(u, data, "503acda4198160f49d849be9a555ea439f47b08f")
     else:
-        return dumpCommits(u, data, "token")
+        return dumpCommits(u, data, "503acda4198160f49d849be9a555ea439f47b08f")
   except Exception as e: 
     print(e)
     print("Contact TA")
